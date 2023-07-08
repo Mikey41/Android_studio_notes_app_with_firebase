@@ -75,7 +75,6 @@ public class NoteDetailsActivity extends AppCompatActivity {
             documentReference = Utility.getCollectionReferenceForNotes().document();
         }
 
-
         documentReference.set(note).addOnCompleteListener(new OnCompleteListener<Void>() {
             @Override
             public void onComplete(@NonNull Task<Void> task) {
