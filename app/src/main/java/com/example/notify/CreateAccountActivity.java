@@ -66,7 +66,6 @@ public class CreateAccountActivity extends AppCompatActivity {
               }
           }
       });
-
     }
 
     void changeInProgress(boolean inProgress){
@@ -94,5 +93,4 @@ public class CreateAccountActivity extends AppCompatActivity {
         }
         return true;
     }
-
 }
