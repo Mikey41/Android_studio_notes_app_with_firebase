@@ -1,6 +1,8 @@
 <resources>
+    
     <string name="app_name">Notify</string>
     <string name="hello_text">Hello.</string>
-    <string name="Lets_get_started">Lets get started.</string>
+    <string name="Let's_get_started">Lets get started.</string>
     <string name="welcome_back_text">Welcome Back</string>
+    
 </resources>
