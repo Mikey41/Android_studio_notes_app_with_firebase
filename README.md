@@ -11,6 +11,8 @@ Notify was developed by a talented team of 10 members. Here are the GitHub usern
 7. jonathanparker0712 - [GitHub Profile](https://github.com/jonathanparker0712)  - 10952347
 8. litjustice6 - [GitHub Profile](https://github.com/litjustice6)  - 10966864
 9. ChrisEdem - [GitHub Profile](https://github.com/ChrisEdem)  - 10952444
+10. Raphaelkakah19 - [GitHub Profile](https://github.com/Raphaelkakah19)  - 10985621
+
 
 Feel free to explore their GitHub profiles for more information about their contributions to the development of Notify.
 
