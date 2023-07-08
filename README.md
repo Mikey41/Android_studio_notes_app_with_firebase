@@ -1,4 +1,23 @@
 # Android_studio_notes_app_with_firebase
+
+A video demonstration of the Notify app's functionality, including the link for the general overview video:
+
+### Video Demonstration
+
+To provide a comprehensive understanding of the Notify app's functionality, we have prepared two video demonstrations:
+
+1. General Overview: This video provides a high-level overview of the app's features, user interface, and main functionalities. You can watch the general overview video by clicking on the following link:
+   - [Notify App General Overview Video](https://www.loom.com/share/d301dd38848f4ea68277cb5d7a2080ee)
+
+2. Detailed Functionality: For a more in-depth look at the app's features, we have a detailed video demonstration showcasing how to perform specific actions, such as note creation, editing, and deletion. You can watch the detailed functionality video by clicking on the following link:
+   - [Notify App Functionality Video](https://www.loom.com/share/f2877e3b69ef4e6ba6548b9f49dd7b38)
+
+These videos will give you a visual walkthrough of the app, allowing you to see firsthand how Notify works and how to make the most of its features.
+
+If you have any questions or need further assistance after watching the videos, please don't hesitate to ask.
+
+Thank you for your interest in Notify!
+
 ### Development Team
 Notify was developed by a talented team of 10 members. Here are the GitHub usernames of the team members:
 
