@@ -4,7 +4,7 @@ Notify was developed by a talented team of 10 members. Here are the GitHub usern
 
 1. Mikey41 - [GitHub Profile](https://github.com/Mikey41)  - 10950757
 2. Elvisgithu - [GitHub Profile](https://github.com/Elvisgithu)  - 10966122
-3. edeyram - [GitHub Profile](https://github.com/edeyram)  - 
+3. edeyram - [GitHub Profile](https://github.com/edeyram)  - 10952013
 4. Gitxoese - [GitHub Profile](https://github.com/Gitxoese)  - 10949927
 5. Waziri666 - [GitHub Profile](https://github.com/Waziri666)  - 10947991
 6. EssonBernard - [GitHub Profile](https://github.com/EssonBernard)  - 10977959
