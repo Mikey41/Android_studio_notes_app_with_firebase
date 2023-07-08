@@ -13,6 +13,35 @@ Notify was developed by a talented team of 10 members. Here are the GitHub usern
 9. ChrisEdem - [GitHub Profile](https://github.com/ChrisEdem)  - 10952444
 10. Raphaelkakah19 - [GitHub Profile](https://github.com/Raphaelkakah19)  - 10985621
 
+### Team Contributions
+
+The development team for Notify consisted of 11 members, each contributing to different aspects of the project. Here is an updated breakdown of the team's contributions:
+
+1. Mikey41:
+   - Worked on the MainActivity.java class and its corresponding XML layout file.
+   - Assisted in writing the Readme and Documentation.
+   - Performed general bug fixes and compilation of project files.
+
+2. Elvisgithu:
+   - Worked on the LoginActivity.java class and its corresponding XML layout file.
+   - Assisted by litjustice6 on the LoginActivity.java class and its XML layout file.
+   - Worked on the CreateAccountActivity.java class and its corresponding XML layout file.
+   - Aided by edeyram and EssonBernard on the CreateAccountActivity.java class and its XML layout file.
+
+3. Gitxoese and Waziri666:
+   - Collaborated on the Note.java class and its corresponding XML layout file.
+   - Contributed to the development of the NoteAdapter.java class.
+
+4. jonathanparker0712, ChrisEdem, and Raphaelkakah19:
+   - Collaborated on the NoteDetailsActivity.java class and its corresponding XML layout file.
+   - Collaborated on the SplashActivity.java class and its corresponding XML layout file.
+   - Contributed to the development of the Utility.java class.
+
+Each team member played a crucial role in the development of Notify, working on specific components and functionalities of the app. Their combined efforts resulted in the successful creation of a feature-rich Android notes application.
+
+For further details on each team member's contributions, you can refer to their respective GitHub profiles mentioned earlier.
+
+Thank you for using Notify!
 
 Feel free to explore their GitHub profiles for more information about their contributions to the development of Notify.
 
